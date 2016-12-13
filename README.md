@@ -1,28 +1,28 @@
 # example-projects
-Examples of Projects Completed
+Some Examples of Projects Completed (Year 2016)
 
 ## ReactJS + Redux
-#### Corporate Dashboard
-https://github.com/richardstrutt/corporate-dashboard
-Node is needed to run project (Server communication)
-#### Portfolio Assest UI Dashboard
-MongoDB, Socket.io, FixerAPI
-<br />https://github.com/richardstrutt/portfolio-asset-ui
-<br />Node is needed to run project (Server communication)
+#### Portfolio Assest UI Dashboard (In progress)
+Features: MongoDB, Socket.io, FixerAPI, D3
+<br />Link: https://github.com/richardstrutt/portfolio-asset-ui
+<br />*Node is needed to run project (Server communication)
+#### Corporate Dashboard (Completed)
+Link: https://github.com/richardstrutt/corporate-dashboard
+<br />*Node is needed to run project (Server communication)
 
 ## AngularJS
-#### Restauranrt Reviewer
-Yelp API, Socket.io
-<br />https://github.com/richardstrutt/udacity-restaurant-reviewer
-<br />Node is needed to run project (Server communication)
-#### Book Library
-https://github.com/richardstrutt/book-library-angular
-#### Transportation App
-ServiceWorker + IndexDB
-<br />https://github.com/richardstrutt/udacity-transportation-app
-<br />Node is needed to run project (Server communication)
+#### Restauranrt Reviewer (Completed)
+Features: Yelp API, Socket.io
+<br />Link: https://github.com/richardstrutt/udacity-restaurant-reviewer
+<br />*Node is needed to run project (Server communication)
+#### Book Library (Completed)
+Link: https://github.com/richardstrutt/book-library-angular
+#### Transportation App (Completed)
+Features: ServiceWorker, IndexDB, 511.org API
+<br />Link: https://github.com/richardstrutt/udacity-transportation-app
+<br />*Node is needed to run project (Server communication)
 
 ## VueJS
-#### Event Planner 
-http://richardstrutt.github.io/event-planner/dist/
+#### Event Planner (Completed)
+Link: http://richardstrutt.github.io/event-planner/dist/
 
